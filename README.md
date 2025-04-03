@@ -1,2 +1,2 @@
-# didactic-couscous
-test
+# LSSI at ETH Zurich
+MSc Biotechnolgy student
